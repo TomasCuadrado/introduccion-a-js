@@ -10,7 +10,7 @@ Desafío de programación #1: Imprimí los números del 1 al 10
 
  Resultado: 10 9 8 7 6 5 4 3 2 1
 
- Desafìo de programación  #2: Imprimí los números impares del 1 al 100
+Desafìo de programación  #2: Imprimí los números impares del 1 al 100
 
  1 3 5 ... 99
 
