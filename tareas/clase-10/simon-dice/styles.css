@@ -1,0 +1,64 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: cornflowerblue;
+  align-items: center;
+}
+
+.cuadros {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: stretch;
+  width: 400px;
+  height: 400px;
+  background-color: brown;
+}
+
+.cuadro {
+  border: 1px solid;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin: 10px;
+}
+
+.nro {
+  font-size: 2rem;
+  color: black;
+}
+
+.rojo {
+  background-color: red;
+}
+
+.azul {
+  background-color: blue;
+}
+
+.amarillo {
+  background-color: yellow;
+}
+
+.verde {
+  background-color: green;
+}
+
+.boton {
+  /*background-color: ;*/
+  padding: 1rem;
+}
+
+#estado {
+  width: 200px;
+  height: 100px;
+  background-color: darkorange;
+  color: blue;
+}
